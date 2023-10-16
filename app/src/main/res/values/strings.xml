@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">AHOME</string>
+    <string name="log_in">Log in</string>
+    <string name="sign_in">Sign in</string>
+    <string name="enter_account">Enter Account</string>
+    <string name="enter_password">Enter password</string>
+    <string name="todo">TODO</string>
+</resources>
